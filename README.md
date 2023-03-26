@@ -6,3 +6,11 @@
 ## Table of Contents
 * [Week 1](/week_1)
   * [Day 1](/week_1/Day_1)
+
+## Cheetsheets
+
+[Markdown Cheersheets](https://github.com/adam-p/markdown-here/wiki/Markdown-Cheatsheet)
+
+## shortcuts
+
+### Open the markdown preview --> *`Cmd + k`* and then *`v`* 
