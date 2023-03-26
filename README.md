@@ -1,6 +1,6 @@
 # [Nanaya]'s Notes
 
-## My Notes
+## Summery
 #### This repository contains all of the notes taken by [Nanaya](https://github.com/Lala0419) for the Lighthouse Labs Web Development Bootcamp.
 
 ## Table of Contents
