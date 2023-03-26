@@ -15,4 +15,4 @@
 1. [Command Line Argument in Node.js](https://stackabuse.com/command-line-arguments-in-node-js/)
 
 3. [function expression](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Operators/function)
-  * Needed this to solve the question we did in the lecture. & [Adding Numbers from Compass](https://flex-web.compass.lighthouselabs.ca/workbooks/flex-m01w1/activities/147?journey_step=29)
+  * * Needed this to solve the question we did in the lecture. & [Adding Numbers from Compass](https://flex-web.compass.lighthouselabs.ca/workbooks/flex-m01w1/activities/147?journey_step=29)
