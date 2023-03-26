@@ -6,6 +6,7 @@
 ## Table of Contents
 * [Week 1](/week_1)
   * [Day 1](/week_1/Day_1)
+  * [Day 2](/week_1/Day_2)
 
 ## Cheetsheets
 
