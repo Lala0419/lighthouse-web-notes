@@ -16,3 +16,6 @@
 
 3. [function expression](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Operators/function)
    * Needed this to solve the question we did in the lecture. & [Adding Numbers from Compass](https://flex-web.compass.lighthouselabs.ca/workbooks/flex-m01w1/activities/147?journey_step=29)
+
+4. [Growing function](https://eloquentjavascript.net/03_functions.html#h_eVDWIAuyBK)
+   * Try make your func as simple as possilbe! It would be clear and easy to read as well as more cases to be used.
